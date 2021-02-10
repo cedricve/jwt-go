@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e91e3f4-d1a1-479d-913d-6b18b7bd5863" name="Default Changelist" comment="" />
+    <list default="true" id="4e91e3f4-d1a1-479d-913d-6b18b7bd5863" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/map_claims.go" beforeDir="false" afterPath="$PROJECT_DIR$/map_claims.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +38,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="210" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1612971057129" />
-    <state x="447" y="217" width="597" height="548" key="find.popup" timestamp="1612971069264">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="1589" y="335" width="2123" height="887" key="find.popup" timestamp="1612982987408">
+      <screen x="0" y="25" width="5120" height="1415" />
     </state>
     <state x="447" y="217" width="597" height="548" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1612971069264" />
+    <state x="1589" y="335" width="2123" height="887" key="find.popup/0.25.5120.1415@0.25.5120.1415" timestamp="1612982987408" />
   </component>
 </project>
