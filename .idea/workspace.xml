@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e91e3f4-d1a1-479d-913d-6b18b7bd5863" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/claims.go" beforeDir="false" afterPath="$PROJECT_DIR$/claims.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/jwt/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/jwt/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/jwt/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/jwt/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecdsa_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ecdsa_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmac_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hmac_example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hmac_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hmac_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/http_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/http_example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/none_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/none_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/parser_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request/request.go" beforeDir="false" afterPath="$PROJECT_DIR$/request/request.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request/request_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/request/request_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rsa_pss.go" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_pss.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rsa_pss_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_pss_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rsa_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/helpers.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/helpers.go" afterDir="false" />
-    </list>
+    <list default="true" id="4e91e3f4-d1a1-479d-913d-6b18b7bd5863" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
