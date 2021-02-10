@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e91e3f4-d1a1-479d-913d-6b18b7bd5863" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/claims.go" beforeDir="false" afterPath="$PROJECT_DIR$/claims.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/jwt/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/jwt/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/jwt/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/jwt/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecdsa_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ecdsa_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmac_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hmac_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hmac_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/hmac_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/http_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/none_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/none_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/parser_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/request.go" beforeDir="false" afterPath="$PROJECT_DIR$/request/request.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/request_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/request/request_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_pss.go" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_pss.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_pss_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_pss_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsa_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/helpers.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/helpers.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.6/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_sap-sapbelux_europe-west1_kerberos" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1oIP1Smx9wXFFO8fHtbON0t3zy7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="210" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612971057129">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="210" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1612971057129" />
+    <state x="447" y="217" width="597" height="548" key="find.popup" timestamp="1612971069264">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="447" y="217" width="597" height="548" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1612971069264" />
+  </component>
+</project>

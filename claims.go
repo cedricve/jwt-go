@@ -46,10 +46,10 @@ func (c StandardClaims) Valid() error {
 		vErr.Errors |= ValidationErrorIssuedAt
 	}
 
-	if c.VerifyNotBefore(now, false) == false {
+	/*if c.VerifyNotBefore(now, false) == false {
 		vErr.Inner = fmt.Errorf("token is not valid yet")
 		vErr.Errors |= ValidationErrorNotValidYet
-	}
+	}*/
 
 	if vErr.valid() {
 		return nil

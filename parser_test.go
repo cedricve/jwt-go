@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dgrijalva/jwt-go"
-	"github.com/dgrijalva/jwt-go/test"
+	"github.com/cedricve/jwt-go"
+	"github.com/cedricve/jwt-go/test"
 )
 
 var keyFuncError error = fmt.Errorf("error loading key")
